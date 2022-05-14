@@ -7,7 +7,7 @@ For this task, I clean and use data from a state of the US. Then, I choose a sim
 In this project, I explain every step and the whys for each decision, like model decision and their parameters.
 For traning and tuning, I make use of the mutiple folders method of scoring, and the GridParamCV for searching the best model parameters with the range of the parameters that I pre set.
 
-I make use of the sckit-learn, numpy, matplotlib, datetime and pandas libraries for this task.
+I make use of the sckit-learn, numpy, matplotlib, datetime and pandas libraries for this task. It was done with Python, in the Jupyter notebook provided by Anaconda.
 
 This are the final results plotted:
 
