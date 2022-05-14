@@ -1,6 +1,7 @@
 # Compliance Predictor Miniproject
 
 This is a project where I try to predict with a Receiver Operating Characteristic curve with Area under Curve (ROC AUC) score > 75%, whereas a person is gonna pay the property fine or not, and obtain the best score of 80%.
+
 For this task, I clean and use data from a state of the US. Then, I choose a simple classification model, the Logistic Regression, and then I use a more complex, the Random Forest Classifier.
 
 In this project, I explain every step and the whys for each decision, like model decision and their parameters.
