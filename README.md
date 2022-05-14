@@ -11,6 +11,7 @@ I make use of the sckit-learn, numpy, matplotlib, datetime and pandas libraries 
 This are the final results plotted:
 
 Figure 1 - AUC ROC scores
+
 ![image](https://user-images.githubusercontent.com/62029505/168437127-52b7f9e7-205a-4124-9622-4c749009fb7a.png)
 
 Figure 2 - Importance of each feature for the Random Forest Classifier model
